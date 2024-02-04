@@ -1,2 +1,2 @@
-ECHO handle_files.bat
+ECHO This is handle_files.bat
 pause
