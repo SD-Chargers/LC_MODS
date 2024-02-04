@@ -1,2 +1,2 @@
-ECHO This is handle_files.bat v5
-pause
+REM ECHO handle_files.bat v6
+REM pause
